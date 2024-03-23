@@ -2,8 +2,6 @@
 # Creating an Insightful Power BI Dashboard for Amazon Prime Movies and TV Shows
 ![Prime video Dashboard](https://github.com/data-enthusiast-shubhs/Prime-Video_Dashboard_Power-BI/assets/115934788/37a27cff-c09b-4544-a392-e9a76241dcfa)
 
-Are you a data enthusiast? 📊 Passionate about movies and TV shows? 🍿 Let's dive into the world of data visualization with **Power BI**! 🚀
-
 In this exciting project, we'll explore how to create an engaging **Power BI report/dashboard** using the **Amazon Prime Movies and TV Shows dataset**. 🌟 Here's a step-by-step guide to crafting an impressive dashboard:
 
 1. **Dataset Exploration**:
