@@ -1,5 +1,6 @@
 # Prime-Video_Dashboard_Power-BI
 # Creating an Insightful GitHub README for Amazon Prime Movies and TV Shows
+![Prime video Dashboard](https://github.com/data-enthusiast-shubhs/Prime-Video_Dashboard_Power-BI/assets/115934788/37a27cff-c09b-4544-a392-e9a76241dcfa)
 
 Are you a data enthusiast? 📊 Passionate about movies and TV shows? 🍿 Let's dive into the world of data visualization with **Power BI**! 🚀
 
